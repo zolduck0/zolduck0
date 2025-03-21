@@ -15,3 +15,5 @@ I enjoy working on creative and practical projects — currently developing a ga
 
 I'm always learning, experimenting, and looking for ways to improve my skills.  
 Feel free to check out my projects or connect with me!
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zolduck0"/>
