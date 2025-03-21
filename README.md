@@ -4,7 +4,7 @@ I'm a Computer Science student passionate about building things with code.
 I enjoy working on creative and practical projects — currently developing a game using GML (GameMaker Language) and a software project with Python.
 
 ### 💡 Interests
-- 🖥 Full-Stack Software Development  
+- 🖥 Full-Stack Software & Mobile Development  
 - 🎮 Game Development  
 - 🛠 Game Engines  
 - 🎨 Computer Graphics  
