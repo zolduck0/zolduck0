@@ -20,3 +20,5 @@ Feel free to check out my projects or connect with me!
 unused
 ![Top Langs](https://github-readme-stats-git-master-zolducks-projects.vercel.app/api/top-langs/?username=zolduck0&layout=compact)
 -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=zolduck0&theme=dawnfox)](https://git.io/streak-stats)
