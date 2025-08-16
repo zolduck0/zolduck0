@@ -11,7 +11,7 @@ I enjoy working on creative and practical projects — currently developing a ga
 - 🗄 Databases & Data Management
 
 ### 🛠 Tech Stack
-- Python • SQLite • HTML • CSS • GameMaker Studio • Flutter
+- Python • SQLite • HTML • CSS • GameMaker Language • Flutter
 
 I'm always learning, experimenting, and looking for ways to improve my skills.  
 Feel free to check out my projects or connect with me!
