@@ -21,4 +21,4 @@ unused
 ![Top Langs](https://github-readme-stats-git-master-zolducks-projects.vercel.app/api/top-langs/?username=zolduck0&layout=compact)
 -->
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=zolduck0&theme=whatsapp-light2" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats-mu-liart.vercel.app?user=zolduck0&theme=whatsapp-light2&border_radius=15)](https://git.io/streak-stats)
