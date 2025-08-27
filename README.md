@@ -21,4 +21,4 @@ unused
 ![Top Langs](https://github-readme-stats-git-master-zolducks-projects.vercel.app/api/top-langs/?username=zolduck0&layout=compact)
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zolduck0&theme=dawnfox)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zolduck0&theme=whatsapp-light2)](https://git.io/streak-stats)
